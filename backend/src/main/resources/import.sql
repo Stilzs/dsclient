@@ -1,4 +1,10 @@
-INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Gabriel Ramos', 111111111, 1200.0, '2020-07-21T20:59:19Z', 0);
-INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Murilo Ramos', 222222222, 1200.0, '2020-07-21T20:59:19Z', 0);
-INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Osvaldo Ramos', 333333333, 1200.0, '2020-07-21T20:59:19Z', 2);
-INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Leila Adriana', 222222222, 1200.0, '2020-07-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Gabriel Ramos', 111111111, 1200.0, '1992-07-21T20:59:19Z', 0);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Murilo Ramos', 222222222, 3500.0, '1993-07-05T20:59:19Z', 0);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Osvaldo Ramos', 333333333, 2700.0, '1956-07-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Leila Adriana', 44444444, 5000.0, '1986-06-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Vitor Maebara', 555555555, 3295.0, '1993-09-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Lucas Luscente', 666666666, 2297.0, '1994-11-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Filipe Gutierry', 77777777, 3330.0, '1995-08-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Fernanda Moreira', 888888888, 15298.0, '1996-12-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Vinicius Maebara', 999999999999, 3650.0, '1997-04-21T20:59:19Z', 2);
+INSERT INTO tb_client(name, cpf, income, BIRTH_DATE, children ) VALUES ('Raí Moraes', 1010101010, 3333.0, '1999-06-21T20:59:19Z', 2);
